@@ -13,19 +13,43 @@
   </ol>
 </details>
 
-<a name="first-of-all-time-show-the-databases"></a>
-## FIRST OF ALL TIME SHOW THE DATABASES;
 
 
-```sh
+CHEAT SHEET
+
+STEP 1: FIRST OF ALL TIME SHOW THE DATABASES;
+
+```bash
 SHOW DATABASES;
+```
+
+OUPUT:
+
+```bash
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+
+```
+STEP 2: CREATE DATABASE
+
+```bash
+CREATE DATABASE name_of_databases;
+```
+
+```bash
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+
+```
 
 
+THEN USE THE WORD "USE" TO USE THE DATABASES;
 
-
-<a name="then-use-the-word-use-to-use-the-databases"></a>
-## // THEN USE THE WORD "USE" TO USE THE DATABASES;
-
-```sh
-USE name_of_database;
-```sh
+```bash
+    USE name_of_database
+```
+    
