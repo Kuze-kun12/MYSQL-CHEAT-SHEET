@@ -28,3 +28,4 @@ SHOW DATABASES;
 
 ```sh
 USE name_of_database;
+```sh
