@@ -6,7 +6,7 @@
 </div>
 
 <details>
-  <summary>📚 Table of Contents</summary>
+ 
   <ol>
     <li><a href="#first-of-all-time-show-the-databases">FIRST OF ALL TIME SHOW THE DATABASES;</a></li>
     <li><a href="#then-use-the-word-use-to-use-the-databases">// THEN USE THE WORD "USE" TO USE THE DATABASES;</a></li>
