@@ -1,7 +1,8 @@
 <div align="center">
   <h1 align="center">MYSQL CHEAT SHEET</h1>
 
-  <p align="center">JUST A CHEAT SHEET</p>
+  <p align="center">JUST A CHEAT SHEET</p><br>
+  <p align="center">BY: Raul A. Generoso lll</p><br>
 </div>
 
 <details>
@@ -23,7 +24,7 @@ A comprehensive CLI guide for managing MySQL/MariaDB databases, executing full C
 
 ---
 
-## 🚀 1. Database Management
+##  1. Database Management
 
 ### View Existing Databases
 ```sql
@@ -82,7 +83,7 @@ Database changed
 
 ---
 
-## 🛠️ 2. Table Creation & Inspection
+##  2. Table Creation & Inspection
 
 ### Check Existing Tables
 ```sql
@@ -142,7 +143,7 @@ DESCRIBE STUDENT;
 
 ---
 
-## 📝 3. Data Operations (CRUD)
+##  3. Data Operations (CRUD)
 
 ### Create (Insert Records)
 ```sql
@@ -221,7 +222,7 @@ Query OK, 1 row affected (0.003 sec)
 
 ---
 
-## 🧹 4. Cleanup Commands
+##  4. Cleanup Commands
 
 ### Truncate (Reset Table Data & AUTO_INCREMENT)
 Removes all rows in the table while keeping the table structure intact. Resets `AUTO_INCREMENT` back to `1`.
